@@ -11,3 +11,5 @@ makedocs(;
     authors="Paul Schrimpf <paul.schrimpf@gmail.com>",
     assets=String[],
 )
+
+deploydocs(repo="github.com/schrimpf/AvalancheAbbreviations.jl.git")
