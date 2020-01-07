@@ -1,4 +1,4 @@
-using Documenter, AvalancheAbbreviations
+using Documenter
 
 makedocs(;
     modules=[AvalancheAbbreviations],
@@ -9,7 +9,6 @@ makedocs(;
     repo="https://github.com/schrimpf/AvalancheAbbreviations.jl/blob/{commit}{path}#L{line}",
     sitename="AvalancheAbbreviations.jl",
     authors="Paul Schrimpf <paul.schrimpf@gmail.com>",
-    assets=String[],
 )
 
 deploydocs(repo="github.com/schrimpf/AvalancheAbbreviations.jl.git")
