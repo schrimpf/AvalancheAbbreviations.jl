@@ -1,5 +1,12 @@
+
+The tables below contain abbreviations used to describe avalanches and
+snowpack. For more information see [CAA's *Observation Guidelines and
+Recording Standards for Weather, Snowpack and
+Avalanches*](https://cdn.ymaws.com/www.avalancheassociation.ca/resource/resmgr/standards_docs/ogrs2016web.pdf?fbclid=IwAR2UWhe4JjH-uONF3B6IGadFKyZhL-cVc-jGIzQv7dUSRj4ROzQrYShpT-8).
+
 ```@contents
 ```
+
 
 # Weather 
 
@@ -50,11 +57,11 @@
 | PPhl | Hail |
 | PPip | Ice |
 | PPrm | Rime | 
-|-----|-----|
+|-----|---------------|
 | MM | Machine made |
 | MMrp | Round |
 | MMci | Crushed ice |
-|------|---------|
+|-----|---------------|
 | DF | Decomposing & fragmented |
 | DFdc | Partly decomposed |
 | DFbk | Wind broken |
@@ -64,19 +71,19 @@
 |RGlr | Large |
 |RGwp | Wind packed|
 |RGxf | Faceted |
-|-----|----------|
+|-----|---------------|
 |FC | Faceted Crystals |
 |FCso | Solid |
 |FCsf | In surface layer |
 |FCxr | Rounding |
-|------|----------------|
+|------|--------------|
 |DH | Depth Hoar |
 |DHcp | Hollow cups |
 |DHpr| Hollow prisms |
 |DHch| Chains |
 |DHla| Large, striated|
 |DHxr| Rounding |
-|----|--------------|
+|----|----------------|
 |SH| Surface Hoar |
 |SHsu| Surface hoar |
 |SHcv| In cavities |
@@ -86,7 +93,7 @@
 |MFpc|Rounded polycrystals|
 |MFsl|Slush |
 |MFcr|Melt-freeze crust |
-|----|---------------|
+|----|----------------|
 |IF| Ice Forms |
 |IFil|Ice layer |
 |IFic|Column |
@@ -182,17 +189,17 @@
 
 |Abbreviation|    Definition             |
 |------------|---------------------------|
-| *Long Paths* |
+| *Long Paths** |
 | SZ | Start zone |
 | TK | In track | 
 | TR | Top of runout zone |
 | MR | Middle runout |
 | BR | Bottom runout |
-| *Short Paths* |
+| **Short Paths** |
 | TP | Top |
 | MP | Middle |
 | BP | Bottom | 
-| *Path with well define features* |
+| **Path with well defined features** |
 | 1F | Top 1/4 of fan |
 | 2F | Halfway down fan |
 | 3F | 3/4 of fan |
@@ -202,35 +209,35 @@
 
 |Abbreviation|    Definition             |
 |------------|---------------------------|
-| *Natural* |
-| Na |         | 
+| **Natural** |
+| Na | Natural | 
 | Nc | Cornice |
 | Ne | Earthquake |
 | Ni | Ice fall |
 | Nr | Rock fall |
-| *Explosizes* |
-| Xa | Artillery | 
-| X? | Others ommitted |
-| *Helicopter* |
-| Ha | Accidental during landing or approach |
-| Hc | Controlled (intentional) |
-| Hr, \#\#m  | Remote |
-| Hy, \#\#m  | Sympathetic |
-| *Skier* |
+| **Skier** |
 | Sa | Acciental |
 | Sc | Controlled |
 | Sr, \#\#m | Remote |
 | Sy, \#\#m | Sympathetic |
-| *Snowmobile* |
+| **Snowmobile** |
 | Ma | Acciental |
 | Mc | Controlled |
 | Mr, \#\#m | Remote |
 | My, \#\#m | Sympathetic |
-| *Other Vehicle* |
+| **Explosizes** |
+| Xa | Artillery | 
+| X? | Others ommitted |
+| **Helicopter** |
+| Ha | Accidental during landing or approach |
+| Hc | Controlled (intentional) |
+| Hr, \#\#m  | Remote |
+| Hy, \#\#m  | Sympathetic |
+| **Other Vehicle** |
 | Va | Accidental |
 | Vr, \#\#m  | Remote |
 | Vy, \#\#m  | Sympathetic |
-| *Other* | 
+| **Other** |  |
 | O | |
 
 
